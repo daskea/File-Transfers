@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prompt Execution"
+  short_description: "Carry action requests through to completion"
+  default_prompt: "Use $prompt-execution to take this task through to a complete result."
+policy:
+  allow_implicit_invocation: true
