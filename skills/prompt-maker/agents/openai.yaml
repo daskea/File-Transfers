@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prompt Maker"
+  short_description: "Create strong, ready-to-use task prompts"
+  default_prompt: "Use $prompt-maker to write a GPT-6 Astra prompt for this task."
+policy:
+  allow_implicit_invocation: true
